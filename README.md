@@ -22,6 +22,7 @@
                 <img src="images/techstack/bootstrap5.svg" alt="Bootstrap Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/git.svg" alt="Git Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/docker.svg" alt="Docker Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/podman.svg" alt="Podman Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/grpc.svg" alt="gRPC Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/nginx.svg" alt="Nginx Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/httpd.svg" alt="Apache HTTP Server Logo" width="40" height="40" style="margin: 5px;">
@@ -31,7 +32,9 @@
                 <img src="images/techstack/kubernetes.svg" alt="Kubernetes Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/mysql.svg" alt="MySQL Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/mariadb.svg" alt="MariaDB Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/openstack.svg" alt="OpenStack Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/aws.svg" alt="AWS Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/cloudflare.svg" alt="Cloudflare Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/azure.svg" alt="Azure Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/gcp.svg" alt="Google Cloud Platform Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/terraform.svg" alt="Terraform Logo" width="40" height="40" style="margin: 5px;">
