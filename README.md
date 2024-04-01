@@ -30,8 +30,10 @@
                 <img src="images/techstack/githubactions.svg" alt="GitHub Actions Logo" width="40" height="40"
                     style="margin: 5px;">
                 <img src="images/techstack/kubernetes.svg" alt="Kubernetes Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/helm.svg" alt="Helm Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/mysql.svg" alt="MySQL Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/mariadb.svg" alt="MariaDB Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/tidb.svg" alt="TiDB Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/openstack.svg" alt="OpenStack Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/aws.svg" alt="AWS Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/cloudflare.svg" alt="Cloudflare Logo" width="40" height="40" style="margin: 5px;">
