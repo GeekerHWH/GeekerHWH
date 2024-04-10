@@ -31,6 +31,8 @@
                     style="margin: 5px;">
                 <img src="images/techstack/kubernetes.svg" alt="Kubernetes Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/helm.svg" alt="Helm Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/prometheus.svg" alt="Prometheus Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/grafana.svg" alt="Grafana Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/mysql.svg" alt="MySQL Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/mariadb.svg" alt="MariaDB Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/tidb.svg" alt="TiDB Logo" width="40" height="40" style="margin: 5px;">
@@ -48,6 +50,7 @@
                 <img src="images/techstack/debian.svg" alt="Debian Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/ubuntu.svg" alt="Ubuntu Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/redhat.svg" alt="Red Hat Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/winehq.svg" alt="WineHQ Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/office.svg" alt="Microsoft Office Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/qemu.svg" alt="QEMU Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/vmware.svg" alt="VMware Logo" width="40" height="40" style="margin: 5px;">
