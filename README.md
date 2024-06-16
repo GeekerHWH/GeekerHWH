@@ -20,6 +20,8 @@
                 <img src="images/techstack/javascript.svg" alt="JavaScript Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/hugo.svg" alt="Hugo Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/bootstrap5.svg" alt="Bootstrap Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/vue.svg" alt="Vue Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/typescript.svg" alt="TypeScript Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/git.svg" alt="Git Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/docker.svg" alt="Docker Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/podman.svg" alt="Podman Logo" width="40" height="40" style="margin: 5px;">
@@ -31,6 +33,7 @@
                     style="margin: 5px;">
                 <img src="images/techstack/kubernetes.svg" alt="Kubernetes Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/helm.svg" alt="Helm Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/argocd.svg" alt="ArgoCD Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/prometheus.svg" alt="Prometheus Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/grafana.svg" alt="Grafana Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/mysql.svg" alt="MySQL Logo" width="40" height="40" style="margin: 5px;">
