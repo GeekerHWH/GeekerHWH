@@ -15,31 +15,10 @@
         <h2 style="text-align:center;">Tech Stack</h2>
         <div class="row justify-content-center px-3 px-md-5"
             style="display: flex; align-items: center; justify-content: center;">
-                <p>ops stack:</p>
-                <p style="display: flex; flex-wrap: wrap; align-items: center;">
-                    <img src="images/techstack/bash.svg" alt="Bash Logo" width="40" height="40" style="margin: 5px;">
-                    <img src="images/techstack/git.svg" alt="Git Logo" width="40" height="40" style="margin: 5px;">
-                    <img src="images/techstack/docker.svg" alt="Docker Logo" width="40" height="40" style="margin: 5px;">
-                    <img src="images/techstack/podman.svg" alt="Podman Logo" width="40" height="40" style="margin: 5px;">
-                    <img src="images/techstack/githubactions.svg" alt="GitHub Actions Logo" width="40" height="40"
-                        style="margin: 5px;">
-                    <img src="images/techstack/kubernetes.svg" alt="Kubernetes Logo" width="40" height="40" style="margin: 5px;">
-                    <img src="images/techstack/helm.svg" alt="Helm Logo" width="40" height="40" style="margin: 5px;">
-                    <img src="images/techstack/argocd.svg" alt="ArgoCD Logo" width="40" height="40" style="margin: 5px;">
-                    <img src="images/techstack/prometheus.svg" alt="Prometheus Logo" width="40" height="40" style="margin: 5px;">
-                    <img src="images/techstack/grafana.svg" alt="Grafana Logo" width="40" height="40" style="margin: 5px;">
-                    <img src="images/techstack/aws.svg" alt="AWS Logo" width="40" height="40" style="margin: 5px;">
-                    <img src="images/techstack/cloudflare.svg" alt="Cloudflare Logo" width="40" height="40" style="margin: 5px;">
-                    <img src="images/techstack/azure.svg" alt="Azure Logo" width="40" height="40" style="margin: 5px;">
-                    <img src="images/techstack/gcp.svg" alt="Google Cloud Platform Logo" width="40" height="40" style="margin: 5px;">
-                    <img src="images/techstack/terraform.svg" alt="Terraform Logo" width="40" height="40" style="margin: 5px;">
-                    <img src="images/techstack/ansible.svg" alt="Ansible Logo" width="40" height="40" style="margin: 5px;">
-                </p>
-            <p>backend stack:</p>
+            <p>Backend stack:</p>
             <p style="display: flex; flex-wrap: wrap; align-items: center;">
                 <img src="images/techstack/golang.svg" alt="Golang Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/python.svg" alt="Python Logo" width="40" height="40" style="margin: 5px;">
-                <img src="images/techstack/typescript.svg" alt="TypeScript Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/nodejs.svg" alt="NodeJS Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/tidb.svg" alt="TiDB Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/mysql.svg" alt="MySQL Logo" width="40" height="40" style="margin: 5px;">
@@ -50,20 +29,45 @@
                 <img src="images/techstack/mariadb.svg" alt="MariaDB Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/openstack.svg" alt="OpenStack Logo" width="40" height="40" style="margin: 5px;">
             </p>
+            <p>CloudNative stack:</p>
+            <p style="display: flex; flex-wrap: wrap; align-items: center;">
+                <img src="images/techstack/docker.svg" alt="Docker Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/kubernetes.svg" alt="Kubernetes Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/helm.svg" alt="Helm Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/argocd.svg" alt="ArgoCD Logo" width="40" height="40" style="margin: 5px;"> 
+                <img src="images/techstack/cilium.svg" alt="Cilium Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/prometheus.svg" alt="Prometheus Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/grafana.svg" alt="Grafana Logo" width="40" height="40" style="margin: 5px;">
+            </p>
             <p>AI stack:</p>
             <p style="display: flex; flex-wrap: wrap; align-items: center;">
+                <img src="images/techstack/langchain.svg" alt="LangChain Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/huggingface.svg" alt="Hugging Face Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/pytorch.svg" alt="PyTorch Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/ollama.svg" alt="Ollama Logo" width="40" height="40" style="margin: 5px;">
             </p>
-            <p>frontend stack:</p>
+            <p>Frontend stack:</p>
             <p style="display: flex; flex-wrap: wrap; align-items: center;">
                 <img src="images/techstack/html.svg" alt="HTML Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/css.svg" alt="CSS Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/javascript.svg" alt="JavaScript Logo" width="40" height="40" style="margin: 5px;">
-                <img src="images/techstack/bootstrap5.svg" alt="Bootstrap Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/typescript.svg" alt="TypeScript Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/vue.svg" alt="Vue Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/vite.png" alt="Vite Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/bootstrap5.svg" alt="Bootstrap Logo" width="40" height="40" style="margin: 5px;">
                 <img src="images/techstack/hugo.svg" alt="Hugo Logo" width="40" height="40" style="margin: 5px;">
+            </p>
+            <p>Ops stack:</p>
+            <p style="display: flex; flex-wrap: wrap; align-items: center;">
+                <img src="images/techstack/bash.svg" alt="Bash Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/git.svg" alt="Git Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/githubactions.svg" alt="GitHub Actions Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/aws.svg" alt="AWS Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/cloudflare.svg" alt="Cloudflare Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/azure.svg" alt="Azure Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/gcp.svg" alt="Google Cloud Platform Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/terraform.svg" alt="Terraform Logo" width="40" height="40" style="margin: 5px;">
+                <img src="images/techstack/ansible.svg" alt="Ansible Logo" width="40" height="40" style="margin: 5px;">
             </p>
         </div>
     </div>
@@ -79,6 +83,8 @@
 [![GitHub GeekerHWH](https://img.shields.io/github/followers/GeekerHWH?label=follow&style=social)](https://github.com/GeekerHWH)
 
 Wechat Official Account(微信公众号) : 某某昊的日记本
+
+![WechatOA](images/WechatOA.png)
 
 Personal Website : https://geekerhwh.pages.dev (never maintain...)
 
